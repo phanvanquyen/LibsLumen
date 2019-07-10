@@ -5,7 +5,7 @@ Bộ thư viện core được viết dựa trên lumen
  - Tạo document <code>php artisan apidoc:generate</code>
  - update document khi source code thay đổi
  <code>php artisan apidoc:rebuild</code>
- - Link truy cập http://<domain>/public/docs/index.html
+ - Link truy cập http://<<domain>>/public/docs/index.html
  * chú ý: thêm tham số để document tạo ra được chi tiết
  /**
  * @queryParam user_id required The id of the user. Example: me
